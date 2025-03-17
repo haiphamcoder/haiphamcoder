@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there 👋 I'm Haiphamcoder
 
-<!--
-**haiphamcoder/haiphamcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a Backend Developer passionate about building robust and scalable applications.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Experience:** 2 years of experience in backend development.
+* **Skills:** Java, REST APIs, Docker.
+* **Focus:** I specialize in building RESTful APIs and microservices.
+* **Passion:** I'm enthusiastic about clean code, performance optimization, and building scalable systems.
+
+## What I'm Working On
+
+* Currently, I'm developing a RESTful API using Java and FastAPI for a data analytics platform.
+
+## Let's Connect
+
+* Email: ngochai285nd@gmail.com
+
+## Get in Touch
+
+Feel free to reach out if you have any questions, collaboration opportunities, or just want to connect!
